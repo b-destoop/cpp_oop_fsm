@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FSM_OOP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FSM_NOOP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FSM_NOOP-Debug-663de25225cd8ae3ef3e.json",
+					"name" : "FSM_NOOP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FSM_OOP1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FSM_OOP1-Debug-dabed2192916112e214c.json",
+					"name" : "FSM_OOP1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FSM_OOP2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FSM_OOP2-Debug-47bcee77bad25b9c6bb0.json",
+					"name" : "FSM_OOP2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bert/Documents/amaj/FSM_OOP/cmake-build-debug",
+		"source" : "/home/bert/Documents/amaj/FSM_OOP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
